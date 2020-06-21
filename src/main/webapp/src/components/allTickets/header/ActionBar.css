@@ -1,0 +1,13 @@
+.bar {
+    scroll-padding-left: 2vmax;
+    margin-left: 20rem;
+}
+
+.button {
+    border-radius: 6px;
+    margin: 2vmin;
+}
+
+.credentData {
+    padding: auto;
+}

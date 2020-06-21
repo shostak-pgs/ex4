@@ -1,0 +1,12 @@
+.loginButton{
+    padding: 1vmin;
+    width: 12vmax;
+    margin: 2vmin;
+    border-radius: 6px;
+}
+
+.loginInput {
+        border-radius: 10px;
+        width: 90%;
+        margin: 2%;
+}

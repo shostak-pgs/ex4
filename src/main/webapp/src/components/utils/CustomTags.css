@@ -1,0 +1,10 @@
+.error textarea {
+    border-radius: 10px;
+    width: 100%;
+    border : solid tomato 2px;
+}
+
+.valid textarea {
+    border-radius: 10px;
+    width: 100%;
+}
