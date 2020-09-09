@@ -17,7 +17,7 @@
 		<java.version>1.8</java.version>
            <h2.version>1.4.199</h2.version>
 		<validation-api.version>2.0.1.Final</validation-api.version>
-		<hibernate-validator.version>5.2.4.Final</hibernate-validator.version>
+		<hibernate-validator.version>5.3.6.Final</hibernate-validator.version>
 		<hibernate-validator-annotation-processor.version>5.2.1.Final</hibernate-validator-annotation-processor.version>
 		<javax.el.gf.version>2.2.4</javax.el.gf.version>
 		<javax.el-api.versionversion>2.2.4</javax.el-api.versionversion>
