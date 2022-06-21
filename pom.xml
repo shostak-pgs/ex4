@@ -22,7 +22,7 @@
 		<javax.el.gf.version>2.2.4</javax.el.gf.version>
 		<javax.el-api.versionversion>2.2.4</javax.el-api.versionversion>
 		<jwt.version>0.9.1</jwt.version>
-		<mysql.version>8.0.13</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 	</properties>
 
 	<dependencies>
